@@ -1,5 +1,5 @@
 # WebGL-2D-Scale
- Nama        : Awwala Nisa Kamila
+> Nama        : Awwala Nisa Kamila
 >
 > NIM         : 13519208
 >
